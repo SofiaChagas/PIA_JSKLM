@@ -1,0 +1,14 @@
+.card{
+    padding: 20px;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-color: black;
+    border: 30px;
+    background-color: #aaa;
+}
+
+.cards{
+    background-color: #ebeadb;
+}
